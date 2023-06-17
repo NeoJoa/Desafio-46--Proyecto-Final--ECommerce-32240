@@ -1,4 +1,4 @@
-# Desafio-46--Proyecto-Final--ECommerce-32240
+# Desafio 46 -- Proyecto Final -- ECommerce - 32240
 ## Aplicación web de Ecommerce de productos.
 
 Antes de ejecutar el comando, deben detallarse: PORT CONNECTION BCRYPTGENSALT JWTKEY PERSISTENCE MAILPASSWORD LOGGER, en el .env que esta oculto pero deje un archivo.txt con los detalles.
